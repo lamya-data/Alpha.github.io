@@ -2,7 +2,7 @@ title:              Alpha Blog
 email:              lamyaamghar@gmail.com
 description:        explaining with ease the tech concepts 
 author:             Lamya Amghar
-baseurl:            "/PROJECT"
+baseurl:            "/"
 url:                "https://Alpha.github.io"
 
 # Social Profiles
