@@ -2,7 +2,7 @@
 layout: post
 title: "web scraping"
 subtitle: "a guide to scrap everything from the web."
-date: 2021-09-21 21:45:13 -0400
+date: 2021-09-21 21:50:13 -0400
 background: '/img/posts/article1/image1.png'
 ---
 
