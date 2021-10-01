@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Machine learning model deployment overview"
-subtitle: "How to put machine learning models into production"
+title: "Machine learning Model Deployment Overview"
+subtitle: "How to put Machine Learning Models into Production"
 date: 2021-09-30 12:00:00 -0400
 background: '/img/posts/article1/small.jpg'
 ---
