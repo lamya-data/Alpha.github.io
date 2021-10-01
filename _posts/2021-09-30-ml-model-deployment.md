@@ -5,6 +5,7 @@ subtitle: "How to put Machine Learning Models into Production "
 date: 2021-09-30 12:00:00 -0400
 background: '/img/posts/article1/small.jpg'
 ---
+![](/img/posts/article1/small.jpg)
 
 You created and validated your machine learning model and now it is ready to create value for your business customers. 
 
