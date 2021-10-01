@@ -1,16 +1,15 @@
 title:              Alpha Blog
 email:              lamyaamghar@gmail.com
-description:        explaining with ease the tech concepts 
+description:        ""
 author:             Lamya Amghar
-baseurl:            "/"
+baseurl:            ""
 url:                "https:/tech-data.github.io"
 
 # Social Profiles
 twitter_username:   
 github_username:    
 facebook_username:  
-instagram_username:  
-linkedin_username:
+instagram_username:  "linkedin_username:https://www.linkedin.com/in/amghar-lamya/"
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
